@@ -1,5 +1,5 @@
 # Pipeline Status
-[![Build Status](https://dev.azure.com/yosukeadachi-az400/lab/_apis/build/status/yadac.pipelines-java?branchName=master)](https://dev.azure.com/yosukeadachi-az400/lab/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/yosukeadachi0561/yosukeadachi/_apis/build/status/yadac.pipelines-java?branchName=master)](https://dev.azure.com/yosukeadachi0561/yosukeadachi/_build/latest?definitionId=12&branchName=master)
 
 # Contributing
 
